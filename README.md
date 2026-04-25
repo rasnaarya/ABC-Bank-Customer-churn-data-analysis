@@ -70,6 +70,9 @@ In Microsoft Power BI, I built an interactive dashboard including:
 - Churn by Number of Products
 - Customer segmentation visuals
 - Filters for dynamic analysis
+  
+  <img width="1152" height="648" alt="image" src="https://github.com/user-attachments/assets/ec419764-a6bf-4178-b2e9-3a8059f7c42a" />
+
 
 **🧠 7. Conclusion**
 
